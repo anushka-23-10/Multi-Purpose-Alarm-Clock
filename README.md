@@ -1,0 +1,2 @@
+# Multi-Purpose-Alarm-Clock
+Clock combines all of the functionality you need into one simple package. Set alarms; while taking notes and keeping a track of all your notes from every new alarm setting, add timers, and run a stopwatch all at a single place. The notes managing system adds all the notes taken to a csv file for future reference of your records.
